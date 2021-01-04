@@ -4,6 +4,6 @@ Purple
 Orange
 Blue
 Red
-Pony.
+Pony. And another Pony.
 
 These are the colors of the rainbow.
