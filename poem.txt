@@ -6,4 +6,6 @@ Blue
 Red
 Pony. And another Pony.
 
+ofek add this row
+
 These are the colors of the rainbow.
